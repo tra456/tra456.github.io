@@ -55,8 +55,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Travel-O-Stoies",
+        "meta_descr": "Integrated MICE Solution Provider",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
